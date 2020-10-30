@@ -1,0 +1,64 @@
+{
+    "recipe": {
+        "duration": {
+            "cook time": 15,
+            "prep time": 15,
+            "rest time": 60
+        },
+        "directions": [
+            "Mix butter and sugars together until well mixed and smooth.",
+            "Add egg and vanilla extract and mix until well combined.",
+            "In a separate bowl, combine all dry ingredients. I advise to sift the matcha powder as it clumps easily.",
+            "Whisk dry ingredients together to mix everything evenly.",
+            "Slowly integrate dry ingredients with wet ingredients",
+            "Let rest covered in refrigerator for 60 min to overnight.",
+            "Bake at 350F for 15 minutes, rotating tray at the halfway mark."
+        ]
+    },
+    "ingredients": {
+        "dry ingredients": {
+            "salt": {
+                "unit": "teaspoon",
+                "amount": 1
+            },
+            "baking soda": {
+                "unit": "teaspoon",
+                "amount": 1
+            },
+            "matcha powder": {
+                "unit": "tablespoon",
+                "amount": 2
+            },
+            "all-purpose flour": {
+                "unit": "cup",
+                "amount": 3
+            },
+            "white chocolate chips": {
+                "unit": "bag",
+                "amount": 1
+            }
+        },
+        "wet ingredients": {
+            "egg": {
+                "unit": "",
+                "amount": 2
+            },
+            "brown sugar": {
+                "unit": "cup",
+                "amount": 1
+            },
+            "white sugar": {
+                "unit": "cup",
+                "amount": 0.66
+            },
+            "vanilla extract": {
+                "unit": "teaspoon",
+                "amount": 2
+            },
+            "butter (unsalted)": {
+                "unit": "cup",
+                "amount": 1
+            }
+        }
+    }
+}
