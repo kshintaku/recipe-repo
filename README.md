@@ -2,7 +2,7 @@
 
 I started this project as a way to keep track of all my recipes from various sites in one location. I've learned quite a bit about Django in the process and working on learning some front end to make it look nicer.
 
-![alt text](https://github.com/kshintaku/recipe-repo/raw/main/src/ss.png "Screen Shot")
+![alt text](https://raw.githubusercontent.com/kshintaku/recipe-repo/main/ss.png "Screen Shot")
 
 ## Features
 
