@@ -17,6 +17,7 @@ class Recipe(models.Model):
         ("drink", "DRINK"),
     )
     name = models.CharField("title", max_length=100)
+    image = models.ImageField(upload_to="images", blank=True)
     recipe = models.JSONField("Recipe")
     pub_date = models.DateTimeField("date published")
     img_url = models.CharField("image url", max_length=100)

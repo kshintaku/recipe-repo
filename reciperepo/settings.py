@@ -129,3 +129,9 @@ STATICFILES_DIR = [
 ]
 
 django_heroku.settings(locals())
+
+# Base url to serve media files
+MEDIA_URL = "/recipes/static/"
+
+# Path where media is stored
+MEDIA_ROOT = os.path.join(BASE_DIR, "recipes/static/")
